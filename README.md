@@ -2,7 +2,22 @@
 Take this repo as a blog post where I explain everything a beginner needs to know about variables. I also incluede a python file that contains all sorts of practical examples and clarifiacations of every topic we will discuss over this post.
 
 ## INDEX
-
+   * [INDEX](##index)
+   * [DEFINITION AND SYNTAX](##definition-and-syntax)
+   * [VARIABLE NAMES](##VARIABLE-NAMES)
+      * [A VARIABLE MUST OR MUSTN'T](###A-VARIABLE-MUST-OR-MUSTN'T)
+      * [A VARIABLE SHOULD](###A-VARIABLE-SHOULD)
+      * [TYPES OF CASES](###TYPES-OF-CASES)
+   * [VARIABLE VALUES](##VARIABLE-VALUES)
+      * [STRINGS](###STRINGS)
+      * [NUMBERS](###NUMBERS)
+   * [DISPKLAYING VARIABLES](##displaying-variables)
+      * [PRINT()](###PRINT())
+      * [IMPUT()](###INPUT())
+      * [COMBINING VARIABLES](###COMBINING-VARIABLES)
+   * [MULTI-ASSIGNMENT](##MULTI-ASSIGNMENT)
+   * [INCREASING AND DECREASING THE VALUES OF A VARIABLE](##INCREASING-AND-DECREASING-THE-VALUES-OF-A-VARIABLE)
+   
 ## DEFINITION AND SYNTAX
 Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program. As we referenced before, variables need to be labeled and despite other programming lenguages, in python they are declared at the same moment they are assigned. This leads us nicely to the syntax we use which is the following: `variablename = value`. You can see some practical examples on the .py file on this repo, but as you can see, we give the variable a name and then with the equal sign, we assign it a value. However, we can't use just any name, or any value. Keep reading to learn about that.
 
