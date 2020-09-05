@@ -1,6 +1,18 @@
 # EVERYTHING-ABOUT-VARIABLES
 Take this repo as a blog post where I explain everything a beginner needs to know about variables. I also include a python file that contains all sorts of practical examples and clarifications of every topic we will discuss over this post.
 
+<p align="center">
+  <img src="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/3e6db3272eed4924648918a526cffa05-1594379167237/d55c02c5-5521-4798-8324-bc19948a853d.png" alt="ideacoding">
+</p>
+
+
+
+
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%231DBF73&label=WANNA%20LEARN%20PYTHON%3F&logo=Fiverr&style=for-the-badge)](https://www.fiverr.com/ideacoding)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%23E4405F&label=DAILY%20PYTHON%20CONTENT&logo=Instagram&style=for-the-badge)](https://www.instagram.com/ideacoding101/)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%23FF0000&label=my%20youtube&logo=yOUTUBE&logoColor=%23FF0000&style=for-the-badge)](https://www.youtube.com/channel/UCwF2neCernMKopJHCWAt2aQ)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36?color=%23D14836&label=contact%20me&logo=gmail&logoColor=%23D14836&style=for-the-badge)](mailto:ideacoding.contact@gmail.com)
+
 ## INDEX
   * [INDEX](#index)
   * [DEFINITION AND SYNTAX](#definition-and-syntax)
