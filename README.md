@@ -2,7 +2,7 @@
 Take this repo as a blog post where I explain everything a beginner needs to know about variables. I also include a python file that contains all sorts of practical examples and clarifications of every topic we will discuss over this post.
 
 <p align="center">
-  <img src="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/3e6db3272eed4924648918a526cffa05-1594379167237/d55c02c5-5521-4798-8324-bc19948a853d.png" alt="ideacoding">
+  <img src="https://github.com/ideacoding101/images/blob/master/large_logo.png" width="461" height="291" alt="ideacoding">
 </p>
 
 
